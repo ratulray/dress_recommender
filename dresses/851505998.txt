@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1280.50 ms by CLIP (    2.22 ms per image patch)
+
+ In the image, a woman is wearing a brown sweater, a gray dress, and black tights. The sweater is likely a cardigan, which can be worn in various situations, such as casual outings, work, or even as a dressy top. The gray dress can be worn for formal or semi-formal events, such as weddings, parties, or business meetings. The black tights can be worn with the dress or other outfits to provide a polished and elegant look. The woman is standing in a field, which suggests that she might be enjoying a leisurely day outdoors or attending an outdoor event.

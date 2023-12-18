@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1301.18 ms by CLIP (    2.26 ms per image patch)
+
+ In the image, a woman is wearing a white dress and red tights. The dress is a casual, comfortable, and versatile garment that can be worn in various situations. It can be worn to a formal event, such as a wedding or a gala, or to a more casual gathering, like a picnic or a beach outing. The red tights add a pop of color and a touch of elegance to the outfit, making it suitable for both daytime and evening events. The woman is standing in a parking lot, which suggests that she might be attending a social event or going out for a night on the town.

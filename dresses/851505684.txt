@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1319.90 ms by CLIP (    2.29 ms per image patch)
+
+ In the image, a woman is wearing a gray dress with a red bag. The dress is a short, sleeveless, and has a wrap-around design, making it suitable for warm weather or casual settings. The red bag complements the dress, adding a pop of color to the outfit. The woman is also wearing a hat, which adds a stylish touch to her overall appearance. This outfit can be worn in various situations, such as a day out, a picnic, or a casual event, where a comfortable and fashionable dress is desired.

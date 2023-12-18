@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1293.02 ms by CLIP (    2.24 ms per image patch)
+
+ The image features a woman wearing a black and white dress, which is a short, sleeveless, and polka dot dress. She is also holding a black purse in her hand. The dress can be worn in various situations, such as casual outings, social events, or even formal gatherings, depending on the accessories and the overall style. The woman's outfit appears to be stylish and versatile, making it suitable for different occasions.

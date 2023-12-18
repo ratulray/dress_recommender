@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1310.73 ms by CLIP (    2.28 ms per image patch)
+
+ The image features a woman wearing a black dress, which is a short, fitted garment that can be worn in various situations. The dress is paired with black tights and high heels, which are both stylish and comfortable options for dressing up or attending formal events. The woman is also holding a handbag, which can be used to carry personal belongings or accessories while out and about. The combination of the dress, tights, and high heels creates a fashionable and elegant look, suitable for events such as parties, weddings, or other formal gatherings.

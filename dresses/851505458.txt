@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1300.60 ms by CLIP (    2.26 ms per image patch)
+
+ The image features a woman wearing a red dress with a patterned design, which appears to be a floral print. She is also holding a handbag in her hand. The dress is a short-sleeved, knee-length dress, making it suitable for various occasions such as casual gatherings, parties, or even a formal event. The dress can be worn in both warm and cool weather, as it is a versatile piece that can be dressed up or down depending on the accessories and footwear.

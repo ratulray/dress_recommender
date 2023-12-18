@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1298.86 ms by CLIP (    2.25 ms per image patch)
+
+ The woman in the image is wearing a blue dress, which is a strapless, flowing garment. The dress is suitable for various occasions, such as formal events, weddings, or even casual gatherings. It can be worn with heels or flats, depending on the formality of the event. The dress can also be paired with accessories like a necklace, as seen in the image, to enhance the overall look. The woman is posing confidently for the picture, showcasing her outfit and the setting.

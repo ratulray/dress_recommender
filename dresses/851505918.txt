@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1300.21 ms by CLIP (    2.26 ms per image patch)
+
+ The image features a woman wearing a yellow and white dress, which can be worn in various situations. The dress is a short, floral print dress, and the woman is standing in a garden setting. The dress is suitable for outdoor events, such as garden parties, picnics, or casual gatherings with friends and family. The dress can also be worn to a wedding, a formal event, or a special occasion where a touch of elegance and a feminine style is desired. The woman is also wearing a blue jacket, which can be worn over the dress to provide additional warmth or protection from the weather.

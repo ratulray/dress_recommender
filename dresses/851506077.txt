@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1315.14 ms by CLIP (    2.28 ms per image patch)
+
+ The woman in the image is wearing a black and white dress, which can be worn in various situations. It is a versatile outfit that can be suitable for both casual and formal events. The dress can be paired with different accessories, such as a necklace, as seen in the image, to enhance its appearance. The dress can be worn to events like parties, weddings, or even as a stylish outfit for a day out with friends or family. The black and white color scheme also makes it a classic choice that can be easily combined with other colors and patterns.

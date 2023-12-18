@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1306.79 ms by CLIP (    2.27 ms per image patch)
+
+ The image features a woman wearing a pink coat, a pink dress, and a pair of black heels. She is also holding a black purse. The pink coat and dress are likely to be worn during colder weather or as a fashionable outfit during warmer seasons. The black heels can be worn with the pink dress or other outfits, adding a touch of elegance and style. The woman's outfit is suitable for various occasions, such as a casual day out, a formal event, or a special occasion.

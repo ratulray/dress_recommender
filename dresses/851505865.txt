@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1480.91 ms by CLIP (    2.57 ms per image patch)
+
+ The image features a woman wearing a red dress, which is a short, fitted dress that can be worn in various situations. She is also wearing a hat, which adds a stylish touch to her outfit. The woman is standing outside, possibly on a sidewalk or near a driveway, and she is holding a handbag. The combination of the red dress and hat creates a visually appealing and fashionable look, suitable for events such as parties, weddings, or other social gatherings.

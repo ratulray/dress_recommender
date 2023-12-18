@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1330.62 ms by CLIP (    2.31 ms per image patch)
+
+ The image features a woman wearing a pink dress with a floral pattern. She is standing on a sidewalk, posing for the camera. The dress is a short, flowing style, suitable for various occasions such as casual gatherings, parties, or even formal events. The woman is also holding a handbag, which complements her outfit and adds a touch of sophistication to her overall appearance.

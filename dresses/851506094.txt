@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1319.43 ms by CLIP (    2.29 ms per image patch)
+
+ In the image, a woman is wearing a red dress, which is a short-sleeved, button-up dress. The dress is paired with black gloves, and she is also wearing a mask. The woman is standing in a snowy field, which suggests that the dress can be worn in cold weather conditions. The dress is suitable for outdoor activities, such as skiing or snowboarding, as it provides warmth and protection from the cold. The mask and gloves add an extra layer of protection against the cold and wind, making the outfit suitable for winter sports or other cold-weather activities.

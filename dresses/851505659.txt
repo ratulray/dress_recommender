@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1321.87 ms by CLIP (    2.29 ms per image patch)
+
+ The image features two women wearing sunglasses and dresses. One woman is wearing a floral dress, while the other woman is wearing a polka dot dress. Both women are posing for the camera, showcasing their outfits. The sunglasses worn by the women add a stylish touch to their overall appearance. These dresses can be worn in various situations, such as casual outings, parties, or even formal events, depending on the occasion and the individual's personal style.

@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1330.00 ms by CLIP (    2.31 ms per image patch)
+
+ The image features a woman wearing a black and white dress, which is a short, flowing garment. She is also carrying a handbag, which is a common accessory for women. The woman is walking down a sidewalk, possibly enjoying a casual stroll or a day out. The dress can be worn in various situations, such as a formal event, a party, or a summer day out. It is a versatile piece that can be dressed up or down, depending on the occasion and personal style.

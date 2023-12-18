@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1316.56 ms by CLIP (    2.29 ms per image patch)
+
+ In the image, a woman is wearing a gold sequin dress, which is a stylish and eye-catching outfit. The dress is paired with a black handbag, adding a touch of sophistication to her overall look. The woman is also wearing a pair of black boots, which can be worn in various situations, such as during colder weather, for a fashionable and functional footwear option. The combination of the sequin dress, black boots, and handbag creates a fashionable and versatile outfit that can be worn in different settings, from formal events to casual gatherings.

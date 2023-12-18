@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1334.67 ms by CLIP (    2.32 ms per image patch)
+
+ In the image, a woman is sitting on a bench wearing a white dress. The dress is a strapless, floor-length gown that appears to be made of silk. The woman is also wearing a pair of black shoes. This dress can be worn in various situations, such as formal events, weddings, or special occasions, as it is elegant and sophisticated. The woman's choice of attire suggests that she is attending a formal event or simply enjoying a stylish outfit while sitting on the bench.

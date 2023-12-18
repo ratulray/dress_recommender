@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1339.53 ms by CLIP (    2.33 ms per image patch)
+
+ The image features a woman wearing a blue dress, which appears to be a strapless, floor-length gown. The dress is adorned with a blue sequin top, adding a touch of elegance and sophistication to the overall look. The woman is standing in front of a house, possibly posing for a photo. The dress can be worn in various occasions, such as weddings, proms, formal events, or even as a stylish outfit for a special evening. The blue color of the dress also makes it versatile, as it can be paired with different accessories and complementary colors to create a unique and fashionable look.

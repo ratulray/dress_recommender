@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1317.94 ms by CLIP (    2.29 ms per image patch)
+
+ The image features a woman sitting on a red couch, wearing a black dress. The dress appears to be a strapless, floor-length gown, which can be worn in various formal or semi-formal occasions such as weddings, proms, or black-tie events. The dress is elegant and sophisticated, making it an appropriate choice for special occasions or events where a touch of elegance is desired.

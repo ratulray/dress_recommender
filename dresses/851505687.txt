@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1322.78 ms by CLIP (    2.30 ms per image patch)
+
+ The image features a woman wearing a black dress with a gold belt, a fur coat, and a purple handbag. She is standing in front of a wall, possibly on a sidewalk. The dress can be worn in various situations, such as formal events, parties, or even as a stylish outfit for a night out. The fur coat adds a touch of luxury and warmth, making it suitable for colder weather or as an accessory to complement the dress. The purple handbag complements the outfit and can be used for carrying personal belongings or as a fashionable accessory.

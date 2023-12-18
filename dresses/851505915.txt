@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1298.84 ms by CLIP (    2.25 ms per image patch)
+
+ In the image, a woman is standing in a yard holding a black umbrella. She is wearing a yellow dress, which is a casual and comfortable choice for various occasions. The dress can be worn in situations such as a picnic, a garden party, or a relaxed outdoor gathering. The umbrella she is holding suggests that she is prepared for potential rain or sun protection, making the dress suitable for both warm and cool weather conditions.

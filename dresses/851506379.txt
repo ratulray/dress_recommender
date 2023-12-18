@@ -1,0 +1,18 @@
+clip_model_load: model name:   openai/clip-vit-large-patch14-336
+clip_model_load: description:  image encoder for LLaVA
+clip_model_load: GGUF version: 2
+clip_model_load: alignment:    32
+clip_model_load: n_tensors:    377
+clip_model_load: n_kv:         18
+clip_model_load: ftype:        f16
+
+clip_model_load: text_encoder:   0
+clip_model_load: vision_encoder: 1
+clip_model_load: llava_projector:  1
+clip_model_load: model size:     595.62 MB
+clip_model_load: metadata size:  0.14 MB
+clip_model_load: total allocated memory: 195.95 MB
+
+encode_image_with_clip: image encoded in  1300.56 ms by CLIP (    2.26 ms per image patch)
+
+ The woman in the image is wearing a white dress, which can be worn in various situations. The dress is short and has a belt, adding a stylish touch to her outfit. She is also wearing a pair of black high heels, which complement her overall look. The woman is standing on a brick walkway, which adds an interesting texture to the scene. The combination of the white dress, black heels, and the brick walkway creates a visually appealing and fashionable image.
